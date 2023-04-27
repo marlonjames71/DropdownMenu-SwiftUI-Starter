@@ -17,3 +17,10 @@ This starter project was made in order to save a little bit of time on what I'm 
 
 ---
 
+**What we will be building:**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/DropdownMenu-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/DropdownMenu-light.png">
+  <img alt="Shows a simulated iPhone running an app that has three custom dropdown menus." src="/DropdownMenu-light.png" width="500">
+</picture>
